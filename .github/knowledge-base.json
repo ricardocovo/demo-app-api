@@ -1,0 +1,10 @@
+{
+  "schema": "2.0",
+  "docs_system": "demo-app-api",
+  "working_repos": [
+    {
+      "repo": "self"
+    }
+  ]
+}
+
